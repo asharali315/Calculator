@@ -1,0 +1,28 @@
+body{
+	font-family: 'Open Sans',sans-serif;
+	background-image:url("images.jpg");
+}
+
+input
+{
+height:40px;
+width:95%;
+background-color: gray;
+color:white;	
+}
+
+.main
+{
+border: 3px solid grey;
+width: 330px;	
+margin: 0 auto;
+}
+
+.btn{
+width:60px;	
+}
+
+.btn-top
+{
+width:140px !important;	
+}
